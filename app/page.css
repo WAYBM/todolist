@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.task:hover{
+    transform: translateY(-3);
+}

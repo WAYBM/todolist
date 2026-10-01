@@ -1,0 +1,8 @@
+@import "tailwindcss";
+/* @keyframes backmove{
+    from {transform: translate(0,0);}
+    to {transform: translate(random(0,1000),random(0,1000));}
+}
+.circle{
+    animation: backmove 5s ease-in-out 0.5s infinite;
+} */
